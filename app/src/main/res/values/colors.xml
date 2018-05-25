@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="reality">#f63333</color>
+    <color name="time">#2eb832</color>
+    <color name="mind">#d3cf2c</color>
+    <color name="power">#5b20b8</color>
+    <color name="soul">#fc8d2a</color>
+</resources>
